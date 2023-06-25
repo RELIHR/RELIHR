@@ -8,14 +8,12 @@
 
 - 🌱 I’m currently learning and exploring new technologies.
 - 💼 Looking for new opportunities and collaborations.
-- 📫 How to reach me: [Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Email](mailto:relihr0@gmail.com)
 - 😄 Pronouns: He/Him
 
 **Languages and Tools:**
 
-<p align="center">
-  <img src="https://github.com/RELIHR/RELIHR/raw/main/assets/languages.png" alt="Languages" width="600">
-</p>
+- Javascript, Python, C# & C++
 
 **GitHub Stats:**
 
