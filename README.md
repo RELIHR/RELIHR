@@ -13,7 +13,7 @@
 
 **Languages and Tools:**
 
-- Javascript, Python, C# & C++
+- Javascript, Python, C# & C++.
 
 **GitHub Stats:**
 
