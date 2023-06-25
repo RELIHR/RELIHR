@@ -1,35 +1,46 @@
-¡Hola, bienvenido/a a mi perfil de GitHub! 👋
-Acerca de mí
-¡Hola! Soy [tu nombre], un entusiasta de la programación y apasionado por la tecnología. Me encanta explorar nuevas tecnologías y aprender constantemente. Mi enfoque principal está en [tus áreas de interés o especialización]. Me considero un/a [tu descripción personal o profesional].
 
-Mis intereses
-💻 Desarrollo de software
-🌐 Desarrollo web y aplicaciones
-📱 Desarrollo móvil
-🤖 Inteligencia Artificial y Aprendizaje Automático
-⚙️ Internet de las cosas (IoT)
-🔒 Seguridad informática
-Proyectos destacados
-[Proyecto 1](enlace al proyecto): Breve descripción del proyecto y su importancia.
-[Proyecto 2](enlace al proyecto): Breve descripción del proyecto y su importancia.
-Contribuciones
-Me gusta contribuir a la comunidad de código abierto. He realizado contribuciones a proyectos como:
+<h1 align="center">¡Hola! Soy [Tu Nombre]</h1>
+<p align="center">
+  <a href="[enlace a tu perfil de LinkedIn]">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn">
+  </a>
+  <a href="[enlace a tu perfil de Twitter]">
+    <img src="https://img.shields.io/badge/Twitter-Follow-blue" alt="Twitter">
+  </a>
+</p>
 
-[Proyecto de código abierto 1](enlace al proyecto): Descripción de la contribución.
-[Proyecto de código abierto 2](enlace al proyecto): Descripción de la contribución.
-Habilidades técnicas
-Lenguajes de programación: [lista de lenguajes]
-Tecnologías y herramientas: [lista de tecnologías y herramientas]
-Bases de datos: [lista de bases de datos]
-Contacto
-Si quieres contactarme, puedes encontrarme en las siguientes plataformas:
+<p align="center">Desarrollador de software con experiencia en JavaScript, Python, C++ y C#</p>
 
-[LinkedIn](enlace a tu perfil de LinkedIn)
-[Twitter](enlace a tu perfil de Twitter)
-[Sitio web personal](enlace a tu sitio web personal)
+## 🔧 Habilidades Técnicas
+
+- JavaScript
+- Python
+- C++
+- C#
+
+## 🚀 Proyectos Destacados
+
+- [Proyecto 1](enlace al proyecto): Breve descripción del proyecto y su importancia.
+- [Proyecto 2](enlace al proyecto): Breve descripción del proyecto y su importancia.
+
+## 🌱 Aprendiendo
+
+- Rust
+- Kubernetes
+
+## 📫 Contacto
+
+Si deseas contactarme, puedes encontrarme en las siguientes plataformas:
+
+- [LinkedIn](enlace a tu perfil de LinkedIn)
+- [Twitter](enlace a tu perfil de Twitter)
+
 ¡No dudes en conectarte conmigo! Estoy siempre dispuesto/a a colaborar en proyectos interesantes y conocer a personas apasionadas por la tecnología.
 
-Estadísticas de GitHub
+## ⚡ Estadísticas de GitHub
+
 ![Estadísticas de GitHub](enlace a tu gráfico de estadísticas de GitHub)
 
 ¡Gracias por visitar mi perfil! Espero que encuentres algo interesante en mis proyectos y contribuciones. Si tienes alguna pregunta o sugerencia, no dudes en contactarme. ¡Feliz codificación! 😄
+
+Puedes agregar los logos correspondientes a cada lenguaje de programación (JavaScript, Python, C++ y C#) mediante el uso de las imágenes en formato SVG o PNG de los respectivos logos. Puedes encontrar estas imágenes en línea o puedes diseñar tus propias versiones. Luego, reemplaza los nombres de los lenguajes de programación en la sección "Habilidades Técnicas" con los logos correspondientes.
