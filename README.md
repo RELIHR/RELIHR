@@ -1,4 +1,3 @@
-
 <h1 align="center">¡Hola! Soy [Tu Nombre]</h1>
 <p align="center">
   <a href="[enlace a tu perfil de LinkedIn]">
