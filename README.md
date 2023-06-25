@@ -24,8 +24,8 @@
 **Connect with me:**
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
 <hr>
