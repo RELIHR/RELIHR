@@ -7,7 +7,6 @@
 <p align="center">Welcome to my GitHub profile! I'm a passionate developer and lifelong learner.</p>
 
 - 🌱 I’m currently learning and exploring new technologies.
-- 💼 Looking for new opportunities and collaborations.
 - 📫 How to reach me: [Email](mailto:relihr0@gmail.com)
 - 😄 Pronouns: He/Him
 
